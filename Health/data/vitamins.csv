@@ -1,0 +1,32 @@
+Nom vernaculaire;Nom scientifique;Type d’algue;Couleur;Inclusion;Vitamine C;Vitamine E;Vitamine B3;Vitamine B2;Vitamine K;Vitamine B6;Vitamine B1;Vitamine B5;Vitamine A;Vitamine B9;Vitamine B8;Vitamine B12;Vitamine D
+Wakamé atlantique ou Wakamé irlandais;Alaria esculenta;brune;#E58005;0;65000,0;3100,0;4000,0;80,0;498,1;100,0;10,0;;;429,2;;2,0;
+Ascophylle noueux ou Goémon noir;Ascophyllum nodosum;brune;#E58005;0;89400,0;14000,0;1900,0;700,0;1018,0;;300,0;20,0;;22,7;18,5;;1,0
+Fucus vésiculeux;Fucus vesiculosus;brune;#E58005;0;42000,0;13000,0;;;;;;;;;44,7;;
+Varech dentelé;Fucus serratus;brune;#E58005;0;;15000,0;1700,0;;;;;;;;53,4;;
+Fucus;Fucus spp.;brune;#E58005;1;108600,0;14000,0;1700,0;;;;;;;;48,6;;
+Spaghetti de mer ou Haricot de mer;Himanthalia elongata;brune;#E58005;1;120500,0;6600,0;1900,0;200,0;173,0;100,0;100,0;;50,0;83,5;34,0;0,6;0,3
+Kombu breton;Laminaria digitata;brune;#E58005;0;11100,0;300,0;3000,0;;;;;;20,0;;32,9;;2,3
+Kombu royal;Saccharina latissima;brune;#E58005;1;31600,0;4300,0;2100,0;100,0;244,0;200,0;100,0;;50,0;164,0;;2,6;1,3
+Kombu;Saccharina japonica;brune;#E58005;0;14770,0;;1500,0;400,0;;100,0;200,0;;430,0;124,0;;;0,0
+Wakamé;Undaria pinnatifida;brune;#E58005;1;36200,0;1400,0;7900,0;600,0;491,0;200,0;300,0;160,0;440,0;255,6;17,1;2,4;0,0
+Dulse;Palmaria palmata;rouge;#990456;1;46900,0;4100,0;3600,0;300,0;467,0;200,0;200,0;400,0;0,0;295,3;11,7;4,6;0,9
+Nori;Porphyra (Pyropia) spp.;rouge;#990456;1;63900,0;3100,0;6300,0;1800,0;225,0;500,0;500,0;250,0;60,0;31,8;7,0;27,2;0,6
+Pioca ou Lichen ou Goémon rouge;Chondrus crispus;rouge;#990456;0;61600,0;3500,0;2000,0;100,0;153,0;400,0;0,0;;0,0;141,9;;1,0;
+Ogonori;Gracilaria spp.;rouge;#990456;0;27200,0;900,0;;;;;;;;;2,7;;
+Maërl;Phymatolithon calcareum;rouge;#990456;0;;;;;;;;;;;;;
+Ulve ou Laitue de mer;Ulva spp.;verte;#107069;1;68900,0;2460,0;5800,0;200,0;18,0;300,0;100,0;150,0;180,0;102,3;0,01;13,6;1,3
+Ao-nori;Ulva spp. (ex Enteromorpha spp.);verte;#107069;1;48800,0;8500,0;4800,0;1100,0;8,0;;300,0;;400,0;27,3;;31,9;0,0
+Viande des grisons;sèche;;#0950AD;1;500,0;10,0;11800,0;260,0;;700,0;62,0;1330,0;;33,9;;2,4;0,5
+Morue salée;sèche;;#0950AD;1;0,0;1670,0;5260,0;200,0;;580,0;130,0;1010,0;;22,3;;5,4;4,0
+Haricot blanc;sec;;#0950AD;0;;;;;;;;;;;;;
+Fève;sèche;;#0950AD;0;;;;;;;;;;;;;
+Lentille verte;sèche;;#0950AD;1;1630,0;;1980,0;46,0;;350,0;290,0;1340,0;;117,0;;;0,3
+Riz blanc;cru;;#0950AD;0;;;;;;;;;;;;;
+Quinoa;cru;;#0950AD;1;;2440,0;1520,0;320,0;;490,0;360,0;770,0;;184,0;;0,0;0,0
+Sarrasin complet;cru;;#0950AD;0;;;;;;;;;;;;;
+Soja;graine entière;;#0950AD;1;600,0;850,0;1620,0;870,0;;380,0;870,0;790,0;;375,0;;0,0;0,0
+Noix de pécan;sans sel ajouté;;#0950AD;0;;;;;;;;;;;;;
+Amande;avec peau, sans sel ajouté;;#0950AD;1;500,0;22300,0;1970,0;290,0;;70,0;150,0;620,0;;120,0;;0,0;0,3
+Menthe;séchée;;#0950AD;0;;;;;;;;;;;;;
+Persil;séché;;#0950AD;1;137000,0;8960,0;10200,0;2320,0;;1140,0;620,0;1790,0;;187,0;;0,0;0,0
+Abricot;dénoyauté, sec;;#0950AD;0;;;;;;;;;;;;;
