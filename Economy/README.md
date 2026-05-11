@@ -1,6 +1,6 @@
 ## Economy - Map of European producers
 ### Notebook
-ueropean_producers.ipynb
+european_producers.ipynb
 ### References
 EMODnet
 <br>
