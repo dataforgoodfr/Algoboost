@@ -15,7 +15,7 @@ Compare seaweed composition to some relevant common food.<br>
 ### Info
 For seaweeds, numerical values are given in grams of nutrient per 100 grams of dehydrated seaweed.<br>
 For other types of food, numerical values are given in grams of nutrient per 100 grams of food.
-<br>
+<br><br>
 
 ## Health - Minerals
 ### Notebook
@@ -42,7 +42,7 @@ Compare seaweed composition to some relevant common food.
 ### Info
 For seaweeds, numerical values are given in grams of nutrient per 100 grams of dehydrated seaweed.<br>
 For other types of food, numerical values are given in grams of nutrient per 100 grams of food.<br>
-<br>
+<br><br>
 
 ## Health - Iodine
 ### Notebook
@@ -56,7 +56,7 @@ Create a bar graph to display iodine concentration for relevant seaweeds.<br>
 Add a warning for kelp (icon and comment).
 ### Info
 Numerical values are given in milligrams of iodine per 100g of dehydrated seaweed.
-<br>
+<br><br>
 
 ## Health - Iodine per day
 ### Notebook
