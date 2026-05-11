@@ -8,6 +8,6 @@ https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/ae72c42
 ### Aim
 Create an interactive map of macroalgae producers in Europe.
 ### Info
-Producers are indicated as registered in 2020.
+Producers are indicated as registered in 2020.<br>
 Some missing producers were manually added to the EMODnet list.
 <br><br>
