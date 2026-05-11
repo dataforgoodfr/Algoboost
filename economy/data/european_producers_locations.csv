@@ -1,0 +1,170 @@
+ID_Site;Owner_name;Country;Lat;Long;Pos_info
+AT01;BDI-BioLife Science GmbH;Austria;47,258501;15,970157;Confirmed
+AT02;Ecoduna;Austria;48,034771;16,815236;Confirmed
+BE01;Proviron;Belgium;51,13375;4,341306;Confirmed
+BE02;Tomalgae;Belgium;51,032178;3,540922;Confirmed
+CZ01;EcoFuel Labs;Czech Republic;50,104569;14,489265;Confirmed
+DE01;Algenland;Germany;50,609051;8,655781;Estimated
+DE02;Roquette Klötze GmbH & Co. KG;Germany;52,640915;11,183202;Confirmed
+DE03;Algova;Germany;52,64331;10,257612;Confirmed
+DE04;Astaxa;Germany;50,518019;10,430457;Estimated
+DE05;BlueBioTech;Germany;53,828998;9,97393;Estimated
+DE06;Cyano Biotech GmbH;Germany;52,426966;13,536295;Confirmed
+DE07;Dr. Eberhard Bioenergie;Germany;53,378578;11,592057;Confirmed
+DE08;MIAL;Germany;53,157455;8,067631;Estimated
+DE09;NOVAgreen;Germany;52,787482;8,261759;Estimated
+DE10;Phytolutions;Germany;53,168497;8,650655;Estimated
+DE11;Sea & Sun Organic;Germany;54,041378;10,209909;Estimated
+DE12;Alga Pangea;Germany;47,080691;16,318428;Estimated
+DE13;INALGO Dresden I GmbH;Germany;51,477613;14,341869;Confirmed
+DK01;Danish Seaweed;Denmark;55,916972;11,644222;Confirmed
+DK02;Falconi Mare ApS;Denmark;55,21163;11,19804;Confirmed
+DK03;Hjarnø Fish Farm;Denmark;55,819701;10,036009;Confirmed
+DK04;Kattegat Seaweed;Denmark;56,409016;10,92476;Estimated
+DK05;Maki Seaweed Greenland;Denmark;66,931528;-53,672278;Estimated
+DK06;Nordisk Tang - Nordic Seaweed Aps;Denmark;56,419737;10,883665;Confirmed
+DK07;Omø Fisk & Tang;Denmark;55,170861;11,158639;Confirmed
+DK08;Organic Seaweed;Denmark;56,242298;10,489349;Estimated
+EE01;EstAgar;Estonia;58,321389;22,251944;Confirmed
+EE02;Power Algae;Estonia;58,388399;26,69245;Confirmed
+EE03;Tinurek OÜ;Estonia;58,60816;22,908037;Confirmed
+ES01;Agrogalicia;Spain;42,431053;-8,644508;Estimated
+ES02;Algades;Spain;36,530376;-6,212558;Confirmed
+ES03;AlgaEnergy;Spain;36,752528;-5,810944;Confirmed
+ES04;Algalimento;Spain;27,814947;-15,42338;Estimated
+ES05;Algamar;Spain;42,292481;-8,550022;Estimated
+ES06;Algatek;Spain;43,169205;-6,098728;Estimated
+ES07;BIORIZON BIOTECH;Spain;36,877923;-2,322979;Confirmed
+ES08;Ceamsa;Spain;42,123373;-8,626096;Estimated
+ES09;Fitoplancton marino, SL.;Spain;36,588556;-6,227222;Confirmed
+ES10;GALURIÑA;Spain;42,79114;-8,984719;Confirmed
+ES11;HQ SEAWEED S.L.;Spain;42,235033;-8,701249;Confirmed
+ES12;INVESTALGA AHTI SL;Spain;43,334226;-4,054553;Confirmed
+ES13;Monzon Biotech SL;Spain;41,973428;0,154252;Confirmed
+ES14;NEOALGAE MICRO SEAWEED PRODUCTS SL;Spain;43,523222;-5,701833;Confirmed
+ES15;Porto-Muiños;Spain;43,173572;-8,476032;Estimated
+ES16;Suralgas;Spain;36,272304;-5,963614;Estimated
+ES17;Celtalga Extract S.L.;Spain;42,872461;-8,563125;Confirmed
+ES18;AtSeaNova NV;Spain;43,513868;-5,205583;Confirmed
+ES22;AtSeaNova NV;Spain;51,191309;2,679325;Confirmed
+ES19;Conservas Artemar;Spain;42,534107;-8,94865;Estimated
+ES20;Algas de Asturias;Spain;43,513415;-5,263589;Estimated
+ES21;La Huerta Marina;Spain;37,284974;-7,172719;Estimated
+FO01;Ocean Rainforest;Faroe Islands;62,303;-6,9267;Confirmed
+FR01;Agrimer;France;48,619996;-4,530531;Estimated
+FR02;Agrival;France;48,629066;-3,994812;Confirmed
+FR03;Algolesko;France;47,824438;-4,1322;Confirmed
+FR04;Algoplus;France;48,725526;-3,983018;Estimated
+FR05;Algues Armorique;France;48,639048;-2,974023;Estimated
+FR06;Algues et Mer;France;48,460317;-5,099219;Confirmed
+FR07;Algue Service;France;48,720048;-3,965162;Confirmed
+FR08;Bioalgostral;France;-20,906269;55,498269;Estimated
+FR09;Biocean;France;48,723102;-3,984566;Estimated
+FR10;GlobeXplore;France;47,961368;-3,850556;Estimated
+FR11;C-weed;France;48,638667;-1,913806;Confirmed
+FR12;Echlorial;France;45,605344;5,20949;Estimated
+FR13;Ennesys;France;48,899652;2,226601;Estimated
+FR14;Fermentalg;France;44,925975;-0,241436;Estimated
+FR15;LLDC Algae;France;48,115365;-2,657566;Estimated
+FR16;Greensea;France;43,418438;3,593516;Confirmed
+FR17;Marinoë - Aqua B;France;47,797175;-4,212272;Estimated
+FR18;Microphyt;France;43,648166;4,024944;Confirmed
+FR19;OLMIX;France;48,048632;-2,691488;Confirmed
+FR20;sas ALEOR;France;48,802927;-3,102625;Confirmed
+FR21;Bretagne Cosmétiques Marins;France;48,566173;-4,654513;Estimated
+FR22;NUWEN by Setalg;France;48,858389;-3,07775;Confirmed
+FR23;Teramer;France;43,775193;4,394529;Confirmed
+FR24;Thomsea;France;46,718162;-1,96072;Confirmed
+FR25;BIOMOLENEZ;France;48,327864;-4,511826;Confirmed
+FR26;Eranova;France;43,406017;4,755429;Confirmed
+HU01;Albitech Biotechnology Ltd.;Hungary;47,549995;19,097071;Confirmed
+IC01;Algalíf Iceland ehf.;Iceland;63,965837;-22,574675;Confirmed
+IC02;Thorverk;Iceland;65,4535703;-22,8909158;Estimated
+IC03;SagaNatura ehf;Iceland;64,0430141;-21,987861;Estimated
+IE01;AlgAran;Ireland;54,690104;-8,759238;Confirmed
+IE02;Aquaceuticals;Ireland;53,446381;-9,044547;Estimated
+IE03;Arramara Teo.;Ireland;53,320667;-9,7335;Confirmed
+IE04;BioAtlantis Limited;Ireland;52,273565;-9,688096;Confirmed
+IE05;Connemara;Ireland;53,123292;-9,670389;Estimated
+IE06;Nutramara;Ireland;52,162553;-8,26161;Confirmed
+IE07;Ocean Harvest Technology;Ireland;53,619851;-8,917645;Estimated
+IE08;Oilean Glas;Ireland;54,657458;-8,575345;Estimated
+IE09;Rí Na Mara;Ireland;53,273496;-9,302271;Estimated
+IE10;Sea Nymph;Ireland;53,336218;-9,182298;Estimated
+IE11;SeaVite;Ireland;53,271216;-9,071649;Estimated
+IE12;The Irish Seaweed Company;Ireland;55,131589;-6,659679;Estimated
+IE13;The Seaweed Company;Ireland;52,252965;-10,025443;Confirmed
+IE19;The Seaweed Company;Ireland;53,801428;-9,528173;Confirmed
+IE20;The Seaweed Company;Ireland;55,176359;-7,801055;Confirmed
+IE14;Voya Seaweed Baths;Ireland;54,270005;-8,598941;Estimated
+IE15;Wild Irish Seaweed;Ireland;52,846734;-9,439759;Estimated
+IE16;Wild Atlantic Seaweed Ireland;Ireland;51,695575;-9,441906;Estimated
+IE17;This is Seaweed Ltd;Ireland;53,287744;-6,715471;Estimated
+IE18;Brandon Bioscience;Ireland;52,327458;-9,875051;Estimated
+IT01;Algain Energy;Italy;45,408172;10,86191;Estimated
+IT02;AlgaRes;Italy;41,854352;12,605167;Estimated
+IT03;Archimede Ricerche srl;Italy;43,834028;7,626833;Confirmed
+IT04;Bioplantec;Italy;44,85109;10,27512;Estimated
+IT05;TERE GROUP;Italy;44,634719;10,900115;Confirmed
+IT06;Micoperi Blue Growth;Italy;42,325374;14,372423;Estimated
+IT07;Micoperi Blue Growth;Italy;44,428126;12,231044;Estimated
+NL01;AlgaeBiotech;The Netherlands;52,307664;5,022497;Estimated
+NL02;AlgaeLink;The Netherlands;51,500202;4,050356;Estimated
+NL03;AlgaSpring B.V.;The Netherlands;52,416804;5,27895;Confirmed
+NL04;Hortimare;The Netherlands;53,002399;4,786048;Confirmed
+NL05;Olijck;The Netherlands;52,386011;4,721456;Estimated
+NL06;Phycom;The Netherlands;52,239706;5,475898;Confirmed
+NL07;Seaweed Harvest Holland;The Netherlands;51,597538;3,685227;Estimated
+NL08;Zeewaar;The Netherlands;51,599174;3,68585;Confirmed
+NO01;Algea;Norway;63,108061;7,769496;Estimated
+NO02;Algetun;Norway;60,41733;4,973577;Estimated
+NO03;Austevoll Seaweed Farm AS;Norway;60,116313;5,146503;Estimated
+NO04;DuPont;Norway;59,415489;5,216859;Confirmed
+NO05;MicroA AS;Norway;58,948578;5,540255;Confirmed
+NO06;Ocean Forest;Norway;60,401579;5,315561;Estimated
+NO07;Seaweed from Norway;Norway;61,283441;4,616663;Estimated
+NO08;Seaweed Energy Solutions;Norway;63,702028;8,639528;Confirmed
+NO09;TANGO Seaweed AS;Norway;62,306098;5,726365;Confirmed
+NO10;Alginor;Norway;59,412743;5,333597;Estimated
+NO11;SJØBJØRG AS;Norway;63,39124;8,482364;Estimated
+NO12;Norway Seaweed;Norway;58,436695;8,842377;Estimated
+NO13;Ting med Tang;Norway;59,252013;10,733811;Estimated
+NO14;Lofoten Blue Harvest AS;Norway;68,164427;14,629186;Estimated
+PT01;ALGAplus Lda;Portugal;40,613139;-8,672806;Confirmed
+PT02;Algicel, Biotecnologia e Investigação, Lda;Portugal;37,747557;-25,678545;Confirmed
+PT03;Allmicroalgae Natural Products SA;Portugal;39,653503;-8,988478;Confirmed
+PT04;Aquazor;Portugal;37,731972;-25,293833;Confirmed
+PT11;Aquazor;Portugal;38,675641;-27,045914;Confirmed
+PT12;Aquazor;Portugal;38,517374;-28,669449;Confirmed
+PT05;Buggypower;Portugal;33,063;-16,306722;Confirmed
+PT13;Buggypower;Portugal;38,102744;-1,229835;Confirmed
+PT06;Necton, S.A.;Portugal;37,026103;-7,867281;Confirmed
+PT07;seaExpert, Ltd.;Portugal;38,546823;-28,667754;Confirmed
+PT08;STELLARIALGA Lda;Portugal;38,719018;-9,163326;Confirmed
+PT09;Unidade Bioquímica Lda (UBQ II);Portugal;32,668127;-16,99738;Confirmed
+PT14;Unidade Bioquímica Lda (UBQ II);Portugal;32,686814;-17,114024;Confirmed
+PT10;LusoAmoreiras, SA;Portugal;38,871696;-9,046502;Estimated
+SE01;Algine Plus;Sweden;59,28237;15,226681;Estimated
+SE02;KosterAlg;Sweden;58,866675;11,166668;Confirmed
+SE05;KosterAlg;Sweden;58,875908;11,146479;Confirmed
+SE03;Simris;Sweden;55,508192;14,153941;Confirmed
+SE04;Swedish Algae Factory;Sweden;58,352961;11,259773;Confirmed
+UK01;AlgaeCytes;UK;51,292611;1,346194;Confirmed
+UK02;Caledonian Seaweeds Ltd;UK;55,963736;-4,667917;Confirmed
+UK03;Hebridean Seaweed Company;UK;58,189381;-6,37543;Estimated
+UK04;Islander Kelp;UK;55,299083;-6,189944;Confirmed
+UK05;Just Seaweed;UK;55,839803;-5,060358;Estimated
+UK06;Mara Seaweed;UK;55,982417;-3,245895;Estimated
+UK07;Maxicrop;UK;52,212926;0,164363;Estimated
+UK08;Seaveg;UK;55,85913;-3,163227;Estimated
+UK09;The Cornish Seaweed Company Ltd;UK;50,092538;-5,206117;Estimated
+UK10;Algenuity;UK;52,0714546;-0,5203594;Confirmed
+EXTRA01;Aoré;France;46,1994943;-1,3453143;Confirmed
+EXTRA02;Lumi’algues;France;45,9413918;-1,2720405;Confirmed
+EXTRA03;Les 4 marais;France;46,2151715;-1,4580137;Confirmed
+EXTRA04;Les jardins de la mer;France;47,3005571;-2,5264694;Confirmed
+EXTRA05;Begood Alg;France;47,9600205;-4,4068203;Confirmed
+EXTRA06;Algo’Manne;France;48,5568962;-4,6971376;Confirmed
+EXTRA07;Bretalg;France;48,7223711;-3,9720722;Confirmed
+EXTRA08;France Haliotis;France;48,6120718;-4,5582956;Confirmed
+EXTRA09;Lofoten Seaweed;Norway;68,1335373;13,4344089;Confirmed
