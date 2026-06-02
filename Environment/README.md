@@ -36,9 +36,8 @@ The graph displays the mean LPI and 99% confidence intervals.
 ## Environment - Biomes
 ### Notebook
 biomes.ipynb
-### References
+### Reference
 Corrigan, S., Cottier-Cook, E.J., Lim, P.-E. & Brodie, J., 2025. The state of the world’s seaweeds. Natural History Museum, London. doi.org/10.5519/4ln9oqk7.
-<br><br>
 ### Aim
 Reproduce the Figure 1 of the report, showing the proportion of estimated global coverage of major marine vegetated biomes.
 ### Info
