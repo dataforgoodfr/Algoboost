@@ -13,8 +13,16 @@ Some missing producers were manually added to the EMODnet list.
 <br><br>
 
 ## Economy - Charts about seaweed production (world or europe), harvesting or aquaculture, seaweed species and revenue in europe
-### Notebook
-production_algues_algoboost.ipynb
+### Notebooks
+production_world_total.ipynb
+production_world_harvesting.ipynb
+production_europe_total.ipynb
+piechart_world.ipynb
+piechart_europe.ipynb
+species_culture.ipynb
+species_harvesting.ipynb
+turnover_europe.ipynb
+jobs_europe.ipynb
 ### References
 FAO
 <br>
